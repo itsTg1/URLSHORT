@@ -15,7 +15,7 @@ It allows users to shorten long URLs and access an admin page to view all stored
 
 ## 📦 Installation
 
-### 1. Clone the repository frontend
+### 1. Clone the repository 
 ```bash
 git clone https://github.com/itsTg1/URLSHORT.git
 cd Frontend
